@@ -1,6 +1,5 @@
-# whois
-
-A new Flutter application.
+# Who.Is
+## A Flutter application.
 
 ## Getting Started
 
