@@ -1,6 +1,8 @@
 # Who.Is
 ## A Flutter application.
 
+by João Pedro Leopoldino
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
